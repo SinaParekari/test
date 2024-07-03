@@ -1,8 +1,5 @@
-public class Car extends Vehiche implements Cloneable,Comparable<Vehiche>{
+public class Car extends Vehiche implements Cloneable{
 
 
-    @Override
-    public int compareTo(Vehiche o) {
-        return 0;
-    }
+
 }
